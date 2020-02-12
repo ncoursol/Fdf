@@ -6,7 +6,7 @@
 /*   By: ncoursol <marvin@42.fr>                    +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2019/07/09 18:27:36 by ncoursol          #+#    #+#             */
-/*   Updated: 2019/09/14 19:50:15 by ncoursol         ###   ########.fr       */
+/*   Updated: 2020/02/12 19:48:23 by ncoursol         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -75,7 +75,6 @@ void	ft_menu3(t_struct *t, char **argv)
 	i = HEIGHT / 30;
 	j = WIDTH - ((WIDTH / 10) * 2) + 30;
 	mlx_string_put(t->mlx, t->win, WIDTH / 18, 2, 0xBDBDBD, "Contributors :");
-    :x
 	mlx_string_put(t->mlx, t->win, WIDTH / 13, i + 20, 0xBDBDBD, "NCoursol");
 	mlx_string_put(t->mlx, t->win, WIDTH / 3, k, 0xBDBDBD, "Argv[0] : ");
 	mlx_string_put(t->mlx, t->win, WIDTH / 3, i + 20, 0xBDBDBD, "Map Path : ");

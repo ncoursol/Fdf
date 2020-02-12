@@ -6,7 +6,7 @@
 /*   By: ncoursol <marvin@42.fr>                    +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2019/07/10 17:12:51 by ncoursol          #+#    #+#             */
-/*   Updated: 2019/09/14 19:50:31 by ncoursol         ###   ########.fr       */
+/*   Updated: 2020/02/12 19:48:00 by ncoursol         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -120,4 +120,4 @@ void		ft_key_press(int key, t_struct *t, int size, int mode)
 		else if (key == 69)
 			ft_print_release((HEIGHT / 6) * 5, size, t, "+");
 	}
-
+}
