@@ -11,16 +11,10 @@ la touche echap permet de sortir du programme et les touches 'WASD' de deplacer 
 
 ex. pour 42.fdf :
 
-0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0
-0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0
-0  0 10 10  0  0 10 10  0  0  0 10 10 10 10 10  0  0  0
-0  0 10 10  0  0 10 10  0  0  0  0  0  0  0 10 10  0  0
-0  0 10 10  0  0 10 10  0  0  0  0  0  0  0 10 10  0  0
-0  0 10 10 10 10 10 10  0  0  0  0 10 10 10 10  0  0  0
-0  0  0 10 10 10 10 10  0  0  0 10 10  0  0  0  0  0  0
-0  0  0  0  0  0 10 10  0  0  0 10 10  0  0  0  0  0  0
-0  0  0  0  0  0 10 10  0  0  0 10 10 10 10 10 10  0  0
-0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0
-0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0
-
+![image1](https://github.com/ncoursol/Fdf/blob/master/test_maps/42.fdf)
 ![image1](https://github.com/ncoursol/Fdf/blob/master/screenshot/image1.png)
+
+autres ex. :
+
+![image1](https://github.com/ncoursol/Fdf/blob/master/screenshot/image2.png)
+![image1](https://github.com/ncoursol/Fdf/blob/master/screenshot/image3.png)
