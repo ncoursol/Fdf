@@ -9,6 +9,8 @@ des maps de test sont disponibles dans le dossier test_maps.
 executer la commande : "./fdf test_maps/42.fdf" pour lancer la visualisation graphique du fichier 42.fdf
 la touche echap permet de sortir du programme et les touches 'WASD' de deplacer la forme sur votre plan, tout le reste est affiché dans le menu.
 
+(edit.) : suite a la nouvelle maj Mojave OpenGl est devenu obsolette, si vous avez des warning à la compilation, rien de dramatique le programme marchera ...
+
 ex. pour 42.fdf :
 
 ```
