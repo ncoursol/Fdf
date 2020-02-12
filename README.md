@@ -9,6 +9,18 @@ des maps de test sont disponibles dans le dossier test_maps.
 executer la commande : "./fdf test_maps/42.fdf" pour lancer la visualisation graphique du fichier 42.fdf
 la touche echap permet de sortir du programme et les touches 'WASD' de deplacer la forme sur votre plan, tout le reste est affiché dans le menu.
 
-screenshot (42.fdf) :
+ex. pour 42.fdf :
+
+0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0
+0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0
+0  0 10 10  0  0 10 10  0  0  0 10 10 10 10 10  0  0  0
+0  0 10 10  0  0 10 10  0  0  0  0  0  0  0 10 10  0  0
+0  0 10 10  0  0 10 10  0  0  0  0  0  0  0 10 10  0  0
+0  0 10 10 10 10 10 10  0  0  0  0 10 10 10 10  0  0  0
+0  0  0 10 10 10 10 10  0  0  0 10 10  0  0  0  0  0  0
+0  0  0  0  0  0 10 10  0  0  0 10 10  0  0  0  0  0  0
+0  0  0  0  0  0 10 10  0  0  0 10 10 10 10 10 10  0  0
+0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0
+0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0
 
 ![image1](https://github.com/ncoursol/Fdf/blob/master/screenshot/image1.png)
