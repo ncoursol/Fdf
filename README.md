@@ -11,5 +11,4 @@ la touche echap permet de sortir du programme et les touches 'WASD' de deplacer 
 
 screenshot :
 
-![Image1]
-(https://github.com/ncoursol/Fdf/blob/master/screenshot/image1.png)
+![image1](https://github.com/ncoursol/Fdf/blob/master/screenshot/image1.png)
