@@ -29,7 +29,7 @@ ex. pour 42.fdf :
 ```
 ![image1](https://github.com/ncoursol/Fdf/blob/master/screenshot/image1.png)
 
-autres ex. :
+autre ex. plus conséquent :
 
 ![image1](https://github.com/ncoursol/Fdf/blob/master/screenshot/image2.png)
 ![image1](https://github.com/ncoursol/Fdf/blob/master/screenshot/image3.png)
